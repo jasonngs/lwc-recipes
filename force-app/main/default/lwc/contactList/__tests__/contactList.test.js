@@ -4,7 +4,7 @@ import { registerApexTestWireAdapter } from '@salesforce/sfdx-lwc-jest';
 import getContactList from '@salesforce/apex/ContactController.getContactList';
 
 // RANDOM COMMENT TO TRIGGER WEBHOOK
-
+// AND ANOTHER COMMENT
 // Realistic data with a list of contacts
 const mockGetContactList = require('./data/getContactList.json');
 
